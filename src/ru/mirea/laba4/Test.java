@@ -3,6 +3,7 @@ package ru.mirea.laba4;
 public class Test {
     public static void main(String[] args) {
 
+
         // 1) Создаем переменную и распечатываем информацию о ней
         Season myFavoriteSeason = Season.SUMMER;
         System.out.println("Мое любимое время года: " + myFavoriteSeason);
