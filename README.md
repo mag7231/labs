@@ -39,3 +39,5 @@ Test.java <br>
 Задача_4. Mathf.java <br>
 Задача_5. StringManipulation.java <br>
 Задача_5. StringManipulationImpl.java <br>
+Задача_2. Main.java <br>
+
