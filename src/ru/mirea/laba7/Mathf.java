@@ -1,7 +1,7 @@
 package ru.mirea.laba7;
 
 import java.util.Scanner;
-// Интерфейс MathCalculable
+
 interface MathCalculable {
     // Метод для возведения числа в степень
     double power(double base, double exponent);
@@ -32,7 +32,7 @@ class MathFunc implements MathCalculable {
     }
 }
 
-public class Meth {
+public class Mathf {
     public static void main(String[] args) {
         MathCalculable mc1 = new MathFunc(); // Создаем объект класса MathFunc, реализующего интерфейс
         Scanner scanner = new Scanner(System.in);

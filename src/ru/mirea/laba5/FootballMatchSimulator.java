@@ -52,6 +52,26 @@ public class FootballMatchSimulator extends JFrame {
 
         });
 
+        JButton redistributeButton = new JButton("Redistribute Goals");
+        buttonPanel.add(redistributeButton);
+        redistributeButton.setPreferredSize(new Dimension(200, 50));
+        redistributeButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                // Перераспределение забитых мячей
+                int totalGoals = milanScore + madridScore;
+                if (totalGoals > 0) {
+                    int newMilanScore = (int) (Math.random() * totalGoals);
+                    int newMadridScore = totalGoals - newMilanScore;
+                    milanScore = newMilanScore;
+                    madridScore = newMadridScore;
+                    updateLabels("Redistributed");
+                }
+            }
+        });
+
+
+
         JPanel labelPanel = new JPanel(); // Создаем панель для надписей
         labelPanel.setLayout(new FlowLayout(FlowLayout.CENTER)); // Используем FlowLayout с выравниванием по центру
         labelPanel.add(resultLabel);

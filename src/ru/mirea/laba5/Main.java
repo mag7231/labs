@@ -3,7 +3,6 @@ package ru.mirea.laba5;
 import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
-import java.util.Scanner;
 
 // Абстрактный класс фигуры
 abstract class Shape {
@@ -95,16 +94,9 @@ class Rectangle extends Shape {
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Введите размер окна");
-        Scanner scanner = new Scanner(System.in);
-        int wid = scanner.nextInt();
-        int hei = scanner.nextInt();
-        if (wid<0 || wid>1920){
-            wid = 800;
-        }
-        if (hei<0 || hei>1920){
-            hei = 600;
-        }
+        int wid = 800;
+        int hei = 600;
+
         DrawingFrame frame = new DrawingFrame(wid,hei);
         frame.setVisible(true);
     }
