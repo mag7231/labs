@@ -29,14 +29,13 @@ Reader.java <br>
 Season.java <br>
 Test.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba5"> #Лабораторная работа 5 <a> <br>
-FootballMatchSimulator.java <br>
-Main.java <br>
-ThirdGui.java <br>
+Задача_1. FootballMatchSimulator.java <br>
+Задача_2. Main.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba6"> #Лабораторная работа 6 <a> <br>
-Main.java <br>
-PriceableExample.java <br>
-TemperatureConverter.java <br>
+Задача_9. Main.java <br>
+Задача_4. PriceableExample.java <br>
+Задача_11. TemperatureConverter.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba7"> #Лабораторная работа 7 <a> <br>
-Mathf.java <br>
-StringManipulation.java <br>
-StringManipulationImpl.java <br>
+Задача_4. Mathf.java <br>
+Задача_5. StringManipulation.java <br>
+Задача_5. StringManipulationImpl.java <br>
