@@ -48,6 +48,11 @@ Test.java <br>
 Задача_3. StudentSortingApp.java <br>
 Задача_2. SortingStudentsByGPA.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba10"> #Лабораторная работа 10 <a> <br>
+Задача_1. Student.java <br>
+Задача_3. MergeAndSortStudents.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba11"> #Лабораторная работа 11 <a> <br>
 Задача_1. TaskAssignment.java <br>
 Задача_2. DateComparison.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba12"> #Лабораторная работа 12 <a> <br>
+Задача_2. ImageDisplay.java <br>
+
