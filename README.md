@@ -40,4 +40,10 @@ Test.java <br>
 Задача_5. StringManipulation.java <br>
 Задача_5. StringManipulationImpl.java <br>
 Задача_2. Main.java <br>
-
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba8"> #Лабораторная работа 8 <a> <br>
+Задача_4. Main.java <br>
+Задача_2. NaturalNumbers.java <br>
+Задача_5. Summ.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba9"> #Лабораторная работа 9 <a> <br>
+Задача_3. StudentSortingApp.java <br>
+Задача_2. SortingStudentsByGPA.java <br>
