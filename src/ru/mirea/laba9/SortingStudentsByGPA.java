@@ -65,7 +65,6 @@ public class SortingStudentsByGPA implements Comparator<Studentt> {
                 new Studentt("John", 3.8),
                 new Studentt("Alice", 3.5),
                 new Studentt("Bob", 4.0),
-                // Добавьте еще студентов по желанию
         };
 
         SortingStudentsByGPA sorter = new SortingStudentsByGPA();

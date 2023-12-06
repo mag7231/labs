@@ -53,6 +53,11 @@ Test.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba11"> #Лабораторная работа 11 <a> <br>
 Задача_1. TaskAssignment.java <br>
 Задача_2. DateComparison.java <br>
+Задача_3. Student.java <br>
+Задача_3. Main.java <br>
+Задача_4. UserInputDateCalendar.java <br>
+Задача_5. Task5.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba12"> #Лабораторная работа 12 <a> <br>
 Задача_2. ImageDisplay.java <br>
-
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba13"> #Лабораторная работа 13 <a> <br>
+Задача_1. StringManipulation.java <br>
