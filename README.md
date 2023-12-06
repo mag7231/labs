@@ -61,3 +61,11 @@ Test.java <br>
 Задача_2. ImageDisplay.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba13"> #Лабораторная работа 13 <a> <br>
 Задача_1. StringManipulation.java <br>
+Задача_2. Person.java <br>
+Задача_3. Address.java <br>
+Задача_5. PhoneNumberFormatter.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba14"> #Лабораторная работа 14 <a> <br>
+Задача_1. Task1.java <br>
+Задача_2. Task2.java <br>
+Задача_3. CurrencyExtractor.java <br>
+Задача_7. PasswordChecker.java <br>
