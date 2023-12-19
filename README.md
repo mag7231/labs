@@ -69,3 +69,16 @@ Test.java <br>
 Задача_2. Task2.java <br>
 Задача_3. CurrencyExtractor.java <br>
 Задача_7. PasswordChecker.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba17"> #Задание на списки <a> <br>
+Задача_1.(Односвязный список) <br>
+Задание на списки №2. SortedLinkedList.java (Вариант 6) <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba18"> #Лабораторная работа 18 <a> <br>
+Задача_2, 3, 4. Exception2.java <br>
+Задача_5, 6, 7. ThrowsDemo.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba19"> #Лабораторная работа 19 <a> <br>
+Задача_1. InnValidation.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba20"> #Лабораторная работа 20 <a> <br>
+Задача_1. MyClass.java <br>
+Задача_2. Main.java <br>
+Задача_5. Matrix.java <br>
+Задача_5. Tester.java <br>
