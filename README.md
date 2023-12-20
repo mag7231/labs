@@ -82,3 +82,5 @@ Test.java <br>
 Задача_2. Main.java <br>
 Задача_5. Matrix.java <br>
 Задача_5. Tester.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba22"> #Лабораторная работа 22 <a> <br>
+Задача_1. RPNCalculator.java <br>
