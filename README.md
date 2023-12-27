@@ -84,3 +84,8 @@ Test.java <br>
 Задача_5. Tester.java <br>
 <a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba22"> #Лабораторная работа 22 <a> <br>
 Задача_1. RPNCalculator.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba23"> #Лабораторная работа 22 <a> <br>
+Задача_1. ArrayQueue.java <br>
+Задача_1. Test.java <br>
+<a href = "https://github.com/mag7231/labs/tree/main/src/ru/mirea/laba24"> #Лабораторная работа 22 <a> <br>
+Задача_1. <br>
